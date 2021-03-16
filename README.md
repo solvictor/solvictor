@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-cccccc?style=for-the-badge&logo=MySQL&logoColor=white)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoregret&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoregret&theme=tokyonight&hide_border=true)
 <br><br>
 
 ## 📧 Contact :
