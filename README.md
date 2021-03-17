@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-cccccc?style=for-the-badge&logo=MySQL&logoColor=white)
 
-# 📖 Currently learning : ![C++](https://img.shields.io/badge/-C++-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+📖 Currently learning : ![C++](https://img.shields.io/badge/-C++-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoregret&theme=tokyonight&hide_border=true)
 <br><br>
