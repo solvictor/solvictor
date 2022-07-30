@@ -1,8 +1,8 @@
 ## ⌨️ Mastered programming languages :
 
-![Java](https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-cccccc?style=for-the-badge&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 📖 Currently learning : ![C++](https://img.shields.io/badge/-C++-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 <br><br>
