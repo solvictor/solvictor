@@ -1,17 +1,20 @@
-## ⌨️ Mastered programming languages :
+## 🛠️ Used tools:
+### Programming languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
-📖 Currently learning : ![C++](https://img.shields.io/badge/-C++-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+📖 Currently learning : ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Softwares:
+![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoregret&theme=tokyonight&hide_border=true)
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victoregret&hide=issues&show_icons=true&theme=tokyonight&hide_border=true)
 <br><br>
-## 📧 Contact :
+## 📧 Contact:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.egret.pro@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.egret.pro@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-egret-977644221/)
 
-## 📦 Projects :
+## 📦 Projects:
