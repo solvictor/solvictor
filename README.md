@@ -8,9 +8,8 @@
 ### Softwares:
 ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<br><br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoregret&theme=tokyonight&hide_border=true)
-<br><br>
 ## 📧 Contact:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.egret.pro@gmail.com)
