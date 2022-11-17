@@ -10,7 +10,6 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoregret&theme=tokyonight&hide_border=true)
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victoregret&hide=issues&show_icons=true&theme=tokyonight&hide_border=true)
 <br><br>
 ## 📧 Contact:
 
