@@ -14,5 +14,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.egret.pro@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-egret)
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/amezir/count.svg" />
+</p>
 
 ## 📦 Projects:
