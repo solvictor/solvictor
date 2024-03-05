@@ -26,10 +26,12 @@
 <p align="center">  
   <a href="https://www.leetcode.com/solvictor">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Leetcode Profile Link" height="45" width="45"/></a>
-  <a href="https://www.codewars.com/users/solvictor">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Codewars Profile Link" height="45" width="45"/></a>
   <a href="https://www.codingame.com/profile/dbb886d2c288304396dc2dab1daf0f6f0490305">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Codingame Profile Link" height="45" width="45"/></a>
+    <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/></a>
+  <br>
+  <br>
+  <a href="https://www.codewars.com/users/solvictor">
+    <img src="https://www.codewars.com/users/solvictor/badges/large" alt="Codewars Profile Link"/></a>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvictor&layout=compact&theme=tokyonight&hide_border=true" alt="Languages statistics"/>
