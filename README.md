@@ -4,9 +4,17 @@
   <a href="https://www.linkedin.com/in/victor-egret"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Link" hspace="4"/></a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="480">
+</p>
+
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,linux,vscode&perline=16" alt="Languages and Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="480">
 </p>
 
 <h3 align="center">📊 Statistics</h3>
@@ -20,6 +28,10 @@
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvictor&layout=compact&theme=tokyonight&hide_border=true" alt="Languages statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="480">
 </p>
 
 <h3 align="center">📦 Projects:</h3>
