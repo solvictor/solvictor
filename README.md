@@ -12,7 +12,7 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,linux,vscode&perline=16" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,docker,linux,windows,vscode,visualstudio,idea&perline=6" alt="Languages and Tools"/>
 </p>
 
 <p align="center">
