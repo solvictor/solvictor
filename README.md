@@ -6,8 +6,7 @@
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-
-![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,linux,vscode&perline=16)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,linux,vscode&perline=16" alt="Languages and Tools" />
 
 <h3 align="left">📊 Statistics</h3>
 <img src="https://komarev.com/ghpvc/?username=solvictor&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter" />
