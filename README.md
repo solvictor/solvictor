@@ -1,7 +1,7 @@
 <h3 align="left">📧 Connect with me:</h3>
 <p align="left">
   <a href="mailto:victor.egret.pro@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Send a mail" /></a>
-  <a href="https://www.linkedin.com/in/victor-egret"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Link" /></a>
+  <a href="https://www.linkedin.com/in/victor-egret"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Link" hspace="4" /></a>
   <a href="https://www.leetcode.com/solvictor"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Leetcode Profile Link" height="45" width="45" /></a>
 </p>
 
