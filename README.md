@@ -1,4 +1,4 @@
-<h3 align="center">📧 Connect with me:</h3>
+<h3 align="center">📧 Connect with me</h3>
 <p align="center">
   <a href="mailto:victor.egret.pro@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Send a mail"/></a>
@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
 </p>
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,docker,linux,windows,vscode,visualstudio,idea&perline=6" alt="Languages and Tools"/>
 </p>
@@ -41,4 +41,4 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
 </p>
 
-<h3 align="center">📦 Projects:</h3>
+<h3 align="center">📦 Projects</h3>
