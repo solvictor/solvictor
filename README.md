@@ -33,9 +33,6 @@
   <a href="https://www.codewars.com/users/solvictor">
     <img src="https://www.codewars.com/users/solvictor/badges/large" alt="Codewars Profile Link"/></a>
 </p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvictor&layout=compact&theme=tokyonight&hide_border=true" alt="Languages statistics"/>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
