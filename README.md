@@ -26,6 +26,7 @@
 <p align="center">  
   <a href="https://www.leetcode.com/solvictor">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Leetcode Profile Link" height="45" width="45"/></a>
+  &nbsp;
   <a href="https://www.codingame.com/profile/dbb886d2c288304396dc2dab1daf0f6f0490305">
     <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/></a>
   <br>
