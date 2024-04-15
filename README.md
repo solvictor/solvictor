@@ -7,21 +7,29 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
+  </a>
 </p>
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,docker,linux,windows,vscode,visualstudio,idea&perline=6" alt="Languages and Tools"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,bash,docker,linux,windows,vscode,visualstudio,idea&perline=6" alt="Languages and Tools"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
+  </a>
 </p>
 
 <h3 align="center">📊 Statistics</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=solvictor&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=solvictor&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
+  </a>
 </p>
 <p align="center">  
   <a href="https://www.leetcode.com/solvictor">
@@ -36,7 +44,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
+  </a>
 </p>
 
 <h3 align="center">📦 Projects</h3>
