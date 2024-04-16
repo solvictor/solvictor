@@ -39,7 +39,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/></a>
   <br>
   <br>
-  <a href="https://www.codewars.com/users/solvictor">
+  <a href="https://www.codewars.com/users/solvictor" target="_blank">
     <img src="https://www.codewars.com/users/solvictor/badges/large" alt="Codewars Profile Link"/></a>
 </p>
 
