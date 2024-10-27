@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>📧 Connect with me</h3>
+  <h2>📧 Connect with me</h2>
   <p>
     <a href="mailto:victor.egret.pro@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Send a mail"/></a>
@@ -11,7 +11,7 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
   </a>
   
-  <h3>🛠️ Languages and Tools</h3>
+  <h2>🛠️ Languages and Tools</h2>
   <p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,java,rust,cpp,c,cs,bash,docker,linux,windows,vscode,visualstudio,idea&perline=6" alt="Languages and Tools"/>
@@ -22,7 +22,7 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool separator" width="480">
   </a>
   
-  <h3>📊 Statistics</h3>
+  <h2>📊 Statistics</h2>
   <p>
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=solvictor&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
